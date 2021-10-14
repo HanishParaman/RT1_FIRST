@@ -1,5 +1,5 @@
 
-Research_Track_first assignment   (Ginne Vikas Reddy)(matricola 5061211)
+Research_Track_first assignment   (HANISH PARAMAN )(matricola 5060913)
 The assignment requires controlling a holonomic robot in a 2d space with a simple 2d simulator
 
 ### A brief explanation of the Algorithm
@@ -23,7 +23,7 @@ ROS server: Service Server replys to the client with a random target
 ## How to run the code
 git clone the package
 
-`https://github.com/vikasreddy636/Research_Track1-first-assignment.git`
+`https://github.com/HanishParaman/RT1_FIRST`
 
 create a workspace in root repositories
 
